@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [游戏](游戏.md)
 * [摘抄](摘抄.md)
 * [手机](手机.md)
 * [知识领域](知识领域.md)
